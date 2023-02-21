@@ -5,3 +5,4 @@ The group assignment given to group five JavaScript class on 21 Feb 2023
 
 1. Juma Josephat
 2. Omoding Mike
+3. Allan Kalema
