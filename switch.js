@@ -67,4 +67,4 @@ switch (true) {
     default:
         grade = "F";
 }
-console.log("Your grade is : " + grade);
+console.log(`Your grade is :  ${grade}`);
